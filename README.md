@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ritesh Gharat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-riteshgharat05@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:riteshgharat05@gmail.com)](mailto:riteshgharat05@gmail.com) 
-<[![Linkedin Badge](https://img.shields.io/badge/-riteshg-69a0bb238-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riteshg-69a0bb238/)](https://www.linkedin.com/in/riteshg-69a0bb238/)>
-[![Github Badge](https://img.shields.io/badge/-riteshgharat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/riteshgharat/)](https://www.github.com/riteshgharat/) 
+[![Gmail Badge](https://img.shields.io/badge/-riteshgharat05@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:riteshgharat05@gmail.com)](mailto:riteshgharat05@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-riteshg-69a0bb238?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riteshg-69a0bb238/)](https://www.linkedin.com/in/riteshg-69a0bb238/)
+[![Github Badge](https://img.shields.io/badge/-riteshgharat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/riteshgharat/)](https://www.github.com/riteshgharat/)
 [![Twitter Badge](https://img.shields.io/badge/-riteshgharat05-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/riteshgharat05/)](https://www.twitter.com/riteshgharat05/)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://riteshgharat.github.io/)](https://riteshgharat.github.io/) 
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://riteshgharat.github.io/)](https://riteshgharat.github.io/)
+
 - I am student of S.D.S.M College Palghar.
 - 🔭 I’m currently working on [devresources.tech](https://devresources.tech)
 - 🌱 I’m currently learning **Python,Nodejs**
