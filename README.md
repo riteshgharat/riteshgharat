@@ -8,7 +8,6 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://riteshgharat.github.io/)](https://riteshgharat.github.io/)
 
 - I am student of S.D.S.M College Palghar.
-- 🔭 I’m currently working on [devresources.tech](https://devresources.tech)
 - 🌱 I’m currently learning **Python,Nodejs**
 - 👨‍💻 All of my projects are available at [riteshgharat.github.io](https://riteshgharat.github.io)
 - 📫 How to reach me **riteshgharat05@gmail.com**
